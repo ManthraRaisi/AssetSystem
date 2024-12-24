@@ -3,7 +3,7 @@ I am going to build a little asset system based on my experience and knowledge
 
 
 Software Analysis Document for Asset Management System
-1. Introduction
+1. Introduction //
 1.1 Purpose
 This document aims to analyze and define the functional, technical, and operational requirements for developing an Asset Management System suitable for a company with a scale of 100 users.
 1.2 Scope
